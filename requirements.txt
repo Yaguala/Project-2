@@ -1,0 +1,42 @@
+#For github just leave the main name of the dependecies
+#Core dependecies
+#pip install pandas
+pandas
+#pip install streamlit
+streamlit
+#pip install streamlit_searchbox
+streamlit_searchbox
+#pip install -U scikit-learn
+scikit-learn
+
+#Second dependecies
+#Search box
+#Makes a search box for title de filme
+#pip install streamlit_searchbox
+streamlit_searchbox
+#from streamlit_searchbox import st_searchbox
+
+#Simple carousel
+#pip install streamlit-Carousel
+streamlit-Carousel
+
+#Carousel doc https://pypi.org/project/st-ant-carousel/
+#pip install st-ant-carousel
+st-ant-carousel
+#from st_ant_carousel import st_ant_carousel
+
+# pip install streamlit-option-menu
+streamlit-option-menu
+
+
+#FastEmbed is a lightweight, fast, Python library built for embedding generation.
+# https://github.com/qdrant/fastembed
+#from fastembed import TextEmbedding
+
+# pip install 
+stqdm
+
+# https://sbert.net
+# from sentence_transformers import SentenceTransformer
+# pip install -U sentence-transformers
+sentence-transformers
