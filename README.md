@@ -1,4 +1,4 @@
-# projet_2
+# Project - 2
 Bonjour !
 
 Vous etes ici sur une application développée dans le cadre de ma formation en Data Analyst.
